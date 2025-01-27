@@ -1,4 +1,4 @@
-YouTube: 19.44.39  
+YT: 19.44.39  
 - To use RVX without root, install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases/latest).  
 - To detach RVX from Play Store, use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module.  
 
